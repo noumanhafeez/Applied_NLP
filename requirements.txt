@@ -1,0 +1,4 @@
+torch===2.2.2
+torchmetrics
+numpy===1.26.4
+torchvision===0.17.2
